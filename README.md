@@ -14,4 +14,4 @@ Resurse folosite pana in prezent:
 * Github - main project's page
 * Whatsapp - for group's discussions
 
-Mai multe detalii in pagina de wiki.
+Mai multe detalii pot fi gasite in pagina de wiki.
