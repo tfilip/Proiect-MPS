@@ -15,3 +15,4 @@ Resurse folosite pana in prezent:
 * Whatsapp - for group's discussions
 
 Mai multe detalii pot fi gasite in pagina de wiki.
+a
